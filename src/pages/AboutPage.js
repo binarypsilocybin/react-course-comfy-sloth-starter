@@ -15,12 +15,12 @@ const AboutPage = () => {
             <div className="undeline"></div>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo
-            fugiat vitae amet dolorem voluptatem sapiente atque temporibus
-            neque. Quasi dolorem ex nobis, natus veniam cupiditate eveniet
-            corrupti vitae facilis doloremque totam ullam dignissimos, similique
-            numquam inventore consequuntur tempora nihil rerum saepe. Ab cum
-            aliquid omnis tempora rem, laudantium ipsum error?
+            Lrem ipsum, dolor sit amet consectetur adipisicing elit. Illo fugiat
+            vitae amet dolorem voluptatem sapiente atque temporibus neque. Quasi
+            dolorem ex nobis, natus veniam cupiditate eveniet corrupti vitae
+            facilis doloremque totam ullam dignissimos, similique numquam
+            inventore consequuntur tempora nihil rerum saepe. Ab cum aliquid
+            omnis tempora rem, laudantium ipsum error?
           </p>
         </article>
       </Wrapper>
